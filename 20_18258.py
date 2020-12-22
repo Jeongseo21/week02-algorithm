@@ -38,7 +38,7 @@ for _ in range(N):
 from collections import deque
 dq = deque()
 
-큐를 사용해서 문제 풀 때는 꼭 deque 사용하기.
+큐를 사용해서 문제 풀 때는 deque 사용하기.
 리스트는 원소 하나씩 다 확인해서 평균적으로 O(N)의 시간이 걸리지만
 큐는 O(1)의 시간만으로 원소에 접근할 수 있어서 더 빠르다.
 
