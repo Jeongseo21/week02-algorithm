@@ -1,3 +1,5 @@
+# 괄호
+
 N = int(input())
 cases = []
 for _ in range(N):

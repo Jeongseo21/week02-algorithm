@@ -1,3 +1,5 @@
+# 막대기
+
 import sys
 
 N = int(sys.stdin.readline().rstrip())

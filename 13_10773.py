@@ -1,3 +1,5 @@
+# 제로
+
 N = int(input())
 orders = []
 answer = []

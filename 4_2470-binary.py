@@ -45,5 +45,5 @@ for i in range(len(answer)):
     if abs(temp) < abs_num:
         abs_num = temp
         result = [answer[i][0], answer[i][1]]
-# print(result)
+print(result)
 
